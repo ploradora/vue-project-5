@@ -1,9 +1,9 @@
 <template>
   <div class="attribution">
     Challenge by
-    <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+    <a href="https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw" target="_blank"
       >Frontend Mentor</a
-    >. Coded by <a href="#">Plora Dora</a>.
+    >. Coded by <a href="#">Sebastian Suciu</a>.
   </div>
 </template>
 
